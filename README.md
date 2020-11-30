@@ -1,1 +1,1 @@
-# my-ary-gallery
+# my-artgallery
